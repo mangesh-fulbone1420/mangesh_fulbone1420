@@ -1,17 +1,17 @@
 
 <div align="center">
 
-# Hey! I'm SAKSHI GAIKWAD <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+# Hey! I'm Mangesh Fulbone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 ```diff
 
-@@ Software Developer | Data Engineer @@
+@@ Software Engineer | Azure Data Engineer @@
 
 ```
 </div>  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sakshi-gaikwad-7663a91b8/"><img src="https://img.shields.io/badge/-Sakshi%20Gaikwad%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sakshigaikwad1408@gmail.com"><img src="https://img.shields.io/badge/-sakshigaikwad1408-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mangesh-fullbone-data-engineer/"><img src="https://img.shields.io/badge/-Sakshi%20Gaikwad%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mangeshfulbone00@gmail.com"><img src="https://img.shields.io/badge/-sakshigaikwad1408-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <br />
